@@ -9,14 +9,14 @@
 
 홈페이지 제작/
 ├── one.html # 첫 번째 웹페이지 (소개 페이지 등으로 사용 가능)
-├── one.css # one.html 전용 스타일
-├── two.html # 두 번째 웹페이지
+├── one.css # one.html 독립운동가에 대한 소개
+├── two.html # 잊혀져 가고 있는 이름 모를 독립운동가에 대한 소개
 ├── two.css
 ├── three.html # 세 번째 웹페이지
 ├── three.css
-├── four.html # 네 번째 웹페이지
+├── four.html # 여성 독립운동가에 대한 소개 
 ├── four.css
-├── five.html # 다섯 번째 웹페이지 (마무리 페이지 또는 연락처)
+├── five.html # 어떤분이 독립운동가인지에 대한 퀴즈 
 ├── five.css
 └── imag/ # 웹페이지에 사용되는 이미지 리소스 폴더
 ├── image1.jpg
